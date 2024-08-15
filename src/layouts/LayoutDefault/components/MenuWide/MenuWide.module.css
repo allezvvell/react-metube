@@ -1,0 +1,27 @@
+.nav {
+  padding-top: 10px;
+  width: var(--width-menu-wide);
+  display: flex;
+  flex-direction: column;
+}
+.nav > a {
+  margin: 0 9px;
+  padding: 10px 15px;
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  font-size: 14px;
+  border-radius: 6px;
+}
+.nav > a:hover {
+  background-color: var(--color-bg-gray1);
+}
+.nav > a.active {
+  background-color: var(--color-bg-gray1);
+}
+.nav > a svg {
+  font-size: 1.2rem;
+}
+.nav > a:first-child svg {
+  font-size: 1.4rem;
+}

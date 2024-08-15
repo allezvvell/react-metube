@@ -1,0 +1,795 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "g7CDQ0Dp6ZqkfmdgnVuk7HxVC0I",
+  "nextPageToken": "Z2V0X25ld2VzdF9maXJzdC0tQ2dnSWdBUVZGN2ZST0JJRkNKMGdHQUVTQlFpSElCZ0FFZ1VJaUNBWUFCSUZDSWtnR0FBU0JRaW9JQmdBR0FBaURRb0xDSVhhNUtBR0VNaW5tMjA=",
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "rnlqNtt9Dw5y__rwSkr2NoH5wCU",
+      "id": "UgytMmbQdmqo2YaD5Cd4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "pezjT-5jYdRalMu4q4jKRmKbv0k",
+          "id": "UgytMmbQdmqo2YaD5Cd4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "🎯 Key points for quick navigation:<br><br><a href=\"https://www.youtube.com/watch?v=_VB39Jo8mAQ\">00:00</a> <b>🎲 Kids&#39; money management can be influenced by the concept of &quot;financial abstraction&quot;</b><br><a href=\"https://www.youtube.com/watch?v=_VB39Jo8mAQ&amp;t=165\">02:45</a> <b>💰 Many people interact with money in increasingly abstract ways, impacting financial decisions</b><br><a href=\"https://www.youtube.com/watch?v=_VB39Jo8mAQ&amp;t=329\">05:29</a> <b>💡 Real money in games can change kids&#39; financial behaviors and decision-making</b><br><a href=\"https://www.youtube.com/watch?v=_VB39Jo8mAQ&amp;t=486\">08:06</a> <b>🧠 Kids exposed to financial experiences early on have a better chance of success later in life</b><br><a href=\"https://www.youtube.com/watch?v=_VB39Jo8mAQ&amp;t=679\">11:19</a> <b>💳 Overspending with credit cards and digital payments can lead to financial troubles</b><br><a href=\"https://www.youtube.com/watch?v=_VB39Jo8mAQ&amp;t=767\">12:47</a> <b>💡 Teach children financial responsibility by giving them tangible money experiences early on</b><br><br>Made with HARPA AI",
+            "textOriginal": "🎯 Key points for quick navigation:\n\n00:00 *🎲 Kids' money management can be influenced by the concept of \"financial abstraction\"*\n02:45 *💰 Many people interact with money in increasingly abstract ways, impacting financial decisions*\n05:29 *💡 Real money in games can change kids' financial behaviors and decision-making*\n08:06 *🧠 Kids exposed to financial experiences early on have a better chance of success later in life*\n11:19 *💳 Overspending with credit cards and digital payments can lead to financial troubles*\n12:47 *💡 Teach children financial responsibility by giving them tangible money experiences early on*\n\nMade with HARPA AI",
+            "authorDisplayName": "@paulinamoran9581",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mXHZXmZbvOGQhEhC3cRwQ6uTVvp9ksYEjD9pwkZYTWrKw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@paulinamoran9581",
+            "authorChannelId": {
+              "value": "UCCuKvlRoTSXQ8zgTqD73T-Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-07-18T03:44:04Z",
+            "updatedAt": "2024-07-18T03:44:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "DS4o2FexYpbd2Ku6MouiFtxhPNY",
+      "id": "UgwKT1NCOKjzvCkb6sp4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "yu4hvcFqDLYnk7hNJ9mqhCapmAI",
+          "id": "UgwKT1NCOKjzvCkb6sp4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "This video was done 6 years ago but it’s by far the most relevant in 2024. And for me as a person.",
+            "textOriginal": "This video was done 6 years ago but it’s by far the most relevant in 2024. And for me as a person.",
+            "authorDisplayName": "@murungimuhairwe5649",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m_nv3_D272HCcGflFyIOwlD7bBInaBJC8f2o5MtA7JSao=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@murungimuhairwe5649",
+            "authorChannelId": {
+              "value": "UCVd0dwV1pUThKGnS9Ut2NhQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-07-05T22:00:32Z",
+            "updatedAt": "2024-07-05T22:00:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "B2fUftX_-DrHsM34kViRO5hFfQ0",
+      "id": "UgxgPJXVF6VYfa2WJyh4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "63Cm7bbUV6sk43-9hJVAlluEbAw",
+          "id": "UgxgPJXVF6VYfa2WJyh4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "<b>This was well before Crypto (or COVID $$$) seized the souls--and digital wallets--of youth. His assertions are even more relevant today.</b>",
+            "textOriginal": "*This was well before Crypto (or COVID $$$) seized the souls--and digital wallets--of youth. His assertions are even more relevant today.*",
+            "authorDisplayName": "@mulemule",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mQV6W1sFbHyhYchgo8bu_o8ZkqWm5FDpgm0cqUjOI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@mulemule",
+            "authorChannelId": {
+              "value": "UCXzTnH9TbTwEcNsuFILp-0w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-06-02T11:00:19Z",
+            "updatedAt": "2024-06-02T11:00:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xWTsQmtTp7qtujwPD5eBNWs6ics",
+      "id": "UgwXM56v-878pDMuUsB4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "cGvNaM2FWcVDCSpglGuZHNHAnfw",
+          "id": "UgwXM56v-878pDMuUsB4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "<a href=\"https://www.youtube.com/watch?v=_VB39Jo8mAQ&amp;t=405\">6:45</a> Wow, glad your kids are so familiar with throwing money at strippers at such a young age. It&#39;ll serve them well.",
+            "textOriginal": "6:45 Wow, glad your kids are so familiar with throwing money at strippers at such a young age. It'll serve them well.",
+            "authorDisplayName": "@1QKGLH",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_myylSiSYfsymfqteUHnd8tLCjDqUAGPq-_czzHycImzg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@1QKGLH",
+            "authorChannelId": {
+              "value": "UCrCDii_RMcnwEhzNiJ5hXkA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-04-28T12:05:10Z",
+            "updatedAt": "2024-04-28T12:05:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ykQLwD-FXi5eIVUWl404EYS_xDU",
+      "id": "UgxzQM1vXPdRqY1k2bB4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "hBTGsfb_6iS7OK6s4pIcHmlVU88",
+          "id": "UgxzQM1vXPdRqY1k2bB4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "The mask wearing jabbed cashless 666 society,... read the Bible.",
+            "textOriginal": "The mask wearing jabbed cashless 666 society,... read the Bible.",
+            "authorDisplayName": "@etienne7774",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mAqJb4G--_K5GIUtPf7ZaCiBexE5zTjIWyvGvZ7wo=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@etienne7774",
+            "authorChannelId": {
+              "value": "UCRJwf2D6LgN5rgGX7VBeh4w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-02-07T12:14:00Z",
+            "updatedAt": "2024-02-07T12:14:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "88L3UiAb1VhbW_BA27YKL0y4X1A",
+      "id": "UgxJRPGIe1qACkU9vrV4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "fv2Hy_SCEs5mduhR2E6FH8lK4Lw",
+          "id": "UgxJRPGIe1qACkU9vrV4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "This video was 8 years ago, but what happened to Sam Bankman Fried last year is what said in the video.",
+            "textOriginal": "This video was 8 years ago, but what happened to Sam Bankman Fried last year is what said in the video.",
+            "authorDisplayName": "@MuhazamCSE",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nh3Kue1Esrdh8RbcZxg9xBiEyNjrQIeS1Xfb4a_uBiaw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@MuhazamCSE",
+            "authorChannelId": {
+              "value": "UCgSXLFaEvKBWbwjjHo3W6CQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-01-24T04:18:03Z",
+            "updatedAt": "2024-01-24T04:18:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "FzXT-cHdORnJzy-PGeiHVBk6-Y8",
+            "id": "UgxJRPGIe1qACkU9vrV4AaABAg.9zwY9z9YWlyA-Tkz_Q0xiC",
+            "snippet": {
+              "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+              "videoId": "_VB39Jo8mAQ",
+              "textDisplay": "Hi",
+              "textOriginal": "Hi",
+              "parentId": "UgxJRPGIe1qACkU9vrV4AaABAg",
+              "authorDisplayName": "@Raj-dd1tj",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/BFp4jkFL4UtLlAvq8ir1-se4xTVnfT2DcjAMlTW1cUc8DTl6XUl_7jn1kuXsNFpxnZEf2Ulm=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@Raj-dd1tj",
+              "authorChannelId": {
+                "value": "UCWeOHYar41NLKbHC4U80tKw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2024-02-06T11:13:00Z",
+              "updatedAt": "2024-02-06T11:13:00Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "_NWL__a5t4KAzfogsYPWrzgUecs",
+            "id": "UgxJRPGIe1qACkU9vrV4AaABAg.9zwY9z9YWlyA-Tlfqs_90J",
+            "snippet": {
+              "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+              "videoId": "_VB39Jo8mAQ",
+              "textDisplay": "Hi",
+              "textOriginal": "Hi",
+              "parentId": "UgxJRPGIe1qACkU9vrV4AaABAg",
+              "authorDisplayName": "@Raj-dd1tj",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/BFp4jkFL4UtLlAvq8ir1-se4xTVnfT2DcjAMlTW1cUc8DTl6XUl_7jn1kuXsNFpxnZEf2Ulm=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@Raj-dd1tj",
+              "authorChannelId": {
+                "value": "UCWeOHYar41NLKbHC4U80tKw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2024-02-06T11:19:03Z",
+              "updatedAt": "2024-02-06T11:19:03Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "A2R528LUGbLXlDBOc2s4XGigCCs",
+      "id": "Ugy-_t6FGSzQcaYEJYF4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KABEFd1Jx5gPWmZKCrITb8NSoHY",
+          "id": "Ugy-_t6FGSzQcaYEJYF4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "Brilliant",
+            "textOriginal": "Brilliant",
+            "authorDisplayName": "@beverleyyohanan9867",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lJYdCPpzJGGNcOhM_WGC6XIJEvaB4hVcBFhP0fLhvCGf8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@beverleyyohanan9867",
+            "authorChannelId": {
+              "value": "UC-kjC2JVH7j9Lv5AbElDsDA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-01-20T12:39:35Z",
+            "updatedAt": "2024-01-20T12:39:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9GaI0OkSvXvF7wIivM2WOGeu_qk",
+      "id": "Ugx7Kt7-FI62gmW1Ozt4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2aRPDS-II2NaAQMsl22N7qXH4Lg",
+          "id": "Ugx7Kt7-FI62gmW1Ozt4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "This is the start of a comment thread. 2024",
+            "textOriginal": "This is the start of a comment thread. 2024",
+            "authorDisplayName": "@zdwork-mg8wt",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mCM1B0rSjyqJwtR3L_Tosx7loqS5CcjAy7JuA1YMR9xzDwGzgpvOS7Mx5tZVOJx-ai7w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@zdwork-mg8wt",
+            "authorChannelId": {
+              "value": "UCC7uxlvpgsDb2TT3_wX7tHQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-01-18T07:28:51Z",
+            "updatedAt": "2024-01-18T07:28:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "j9q_gsYx-uqqfR9uh0ZJIzMbd5A",
+      "id": "Ugy0EJR6Bo3mfeIkhaR4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "WDufA-R7QgO0iM_JOvYbWH6Beo0",
+          "id": "Ugy0EJR6Bo3mfeIkhaR4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "This is the start of a comment thread.",
+            "textOriginal": "This is the start of a comment thread.",
+            "authorDisplayName": "@zdwork-mg8wt",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mCM1B0rSjyqJwtR3L_Tosx7loqS5CcjAy7JuA1YMR9xzDwGzgpvOS7Mx5tZVOJx-ai7w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@zdwork-mg8wt",
+            "authorChannelId": {
+              "value": "UCC7uxlvpgsDb2TT3_wX7tHQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-01-18T07:28:14Z",
+            "updatedAt": "2024-01-18T07:28:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "mZLpcJwprwhnAK0q3sZlvh-AAeQ",
+      "id": "UgyUblhNlygF1DNO8ex4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "iRykQdxMFvc4r9yLf-9ZFlsFVfM",
+          "id": "UgyUblhNlygF1DNO8ex4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "Wow, amazing video",
+            "textOriginal": "Wow, amazing video",
+            "authorDisplayName": "@PersediPL",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lM2aqe-b8N4EYJVvrYumTPKa9Nr0y-2ZFwQrDeDGF-Aw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@PersediPL",
+            "authorChannelId": {
+              "value": "UCq1Sx31_mPqZ--dboO5YgZA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-12-12T10:51:11Z",
+            "updatedAt": "2023-12-12T10:51:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "mgSOwlmZV38-n6nelg0cChGj_hM",
+      "id": "Ugwo09-f0k1JkUMotBp4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "p1EMWuUBv6QN2NY9V4cJACFbBAk",
+          "id": "Ugwo09-f0k1JkUMotBp4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "This is the start of a comment thread.",
+            "textOriginal": "This is the start of a comment thread.",
+            "authorDisplayName": "@c03lh09",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_krbujZLleisJdBpaL5cw4mBV2kPuMFxAdakQ2GoueCfA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@c03lh09",
+            "authorChannelId": {
+              "value": "UCCJJyzxlUzcoVDeNkTqMf-Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-11-18T22:27:40Z",
+            "updatedAt": "2023-11-18T22:27:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "510HICTRCcuDqJaX0f8GtCGvq3s",
+      "id": "UgyoX1KsTZELUiULNHl4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "sR2HwbzyS-jBRxNjjxtsquwMGAo",
+          "id": "UgyoX1KsTZELUiULNHl4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "Damn. this hits hard.",
+            "textOriginal": "Damn. this hits hard.",
+            "authorDisplayName": "@harshnavaleofficial",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/LMLR01A1W8qHTy6mdBxcFERK4fi0Qh82OxTVRbxMFuF4w42wiH0L84QN9HNYV45HfJ35aIyR=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@harshnavaleofficial",
+            "authorChannelId": {
+              "value": "UC0Xha5xcMGQ50D3GzPb9DLA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-09-07T06:04:39Z",
+            "updatedAt": "2023-09-07T06:04:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "zsT-J4L5Y-lvS8_zLEJ7j9muxXs",
+            "id": "UgyoX1KsTZELUiULNHl4AaABAg.9uLos3JsCWR9vD67xzmL8M",
+            "snippet": {
+              "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+              "videoId": "_VB39Jo8mAQ",
+              "textDisplay": "It still does!",
+              "textOriginal": "It still does!",
+              "parentId": "UgyoX1KsTZELUiULNHl4AaABAg",
+              "authorDisplayName": "@Chadbelerique",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k2MBvG9XLwRN9If4YzA0VF87BhAwOctBy8L32dSbG-AmH722OkziMXKiHaJkuGXf4ZlA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@Chadbelerique",
+              "authorChannelId": {
+                "value": "UC8qc5YuWeWhaw0opn-wXnyg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-09-28T17:22:28Z",
+              "updatedAt": "2023-09-28T17:22:28Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "VCp5eXTaOrVpWh5ugcxVYdslMWI",
+      "id": "UgwzPUrRGeLiY9am4c54AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "x-Viq0aqOkgb32qNUYn9lXrh7Zw",
+          "id": "UgwzPUrRGeLiY9am4c54AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "Moral of the story is that money is an allusion, but it has a very real consequences.",
+            "textOriginal": "Moral of the story is that money is an allusion, but it has a very real consequences.",
+            "authorDisplayName": "@christiansamaroo",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kz8RLVigEXa6T6TZ0Mqatg8xYLZNyV9JB6AxRm0xc=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@christiansamaroo",
+            "authorChannelId": {
+              "value": "UCyuM7SoTgQa9Jdu2OxOCk9A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-29T05:49:17Z",
+            "updatedAt": "2023-07-29T05:49:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "POmuf7-44UI-pgEjl90ieRSoaDs",
+      "id": "Ugx_i02QBBcSBveTcId4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_DYQQFFePsMYbxqNvOlf4IyxTYk",
+          "id": "Ugx_i02QBBcSBveTcId4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "Я с канала онигири)",
+            "textOriginal": "Я с канала онигири)",
+            "authorDisplayName": "@user-fj8mz5dj4k",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k9r6WJ86ZKY13Q5DBSpoTljiPaTWhtIkTV2nyUP7q25vk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@user-fj8mz5dj4k",
+            "authorChannelId": {
+              "value": "UCG9gUnB7gdiKOMbDN26b7vQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 8,
+            "publishedAt": "2023-07-19T08:41:05Z",
+            "updatedAt": "2023-07-19T08:41:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "6AIlmuIiPy2FUhs0TbyP9t1tPWk",
+            "id": "Ugx_i02QBBcSBveTcId4AaABAg.9sLM1BkOjty9sWAn_Aj5oK",
+            "snippet": {
+              "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+              "videoId": "_VB39Jo8mAQ",
+              "textDisplay": "тоже)",
+              "textOriginal": "тоже)",
+              "parentId": "Ugx_i02QBBcSBveTcId4AaABAg",
+              "authorDisplayName": "@mapper7221",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_meMdyLorOCdoD_D_1p7pZeWnFBcyVQotSmhyuwNKAJCw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/@mapper7221",
+              "authorChannelId": {
+                "value": "UCn_7ph5Ltyh5HRX3Lpd12gQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-07-23T13:34:37Z",
+              "updatedAt": "2023-07-23T13:34:37Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "g3lAwsQ959pvnhr3bd2gCHGriz0",
+      "id": "Ugx7NNwiies8B7Je32J4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "U1yhEejRuoktbBGSB4ef5h00DnQ",
+          "id": "Ugx7NNwiies8B7Je32J4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "Why should people pay for the government&#39;s printing? First the government needs to pay for all the money it created in natural resources and then we&#39;ll be talking.",
+            "textOriginal": "Why should people pay for the government's printing? First the government needs to pay for all the money it created in natural resources and then we'll be talking.",
+            "authorDisplayName": "@deliq9607",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/A5gHpOYtqK1BzXp6FMqDl-SokrisJmm6beA3cenmkPicWqe5kSbyFNBHlIeaf_SsCiCu_N7DAA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@deliq9607",
+            "authorChannelId": {
+              "value": "UCinpVtHAEFJozvAp1jqOlfw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-06-26T15:28:52Z",
+            "updatedAt": "2023-06-26T15:28:52Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "mNgLsVXUQ79CSGDSfyd6QI48R9M",
+      "id": "Ugz-46a7P7VDNy815MN4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "66UtzAtTKKhOELJmY4XTQYwD7A4",
+          "id": "Ugz-46a7P7VDNy815MN4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "speak well",
+            "textOriginal": "speak well",
+            "authorDisplayName": "@user-vj9ye7ot4b",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nNFlQRQOXEKUeVEZz4vWHLgCJCkqv_XV_D7PEX3uk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@user-vj9ye7ot4b",
+            "authorChannelId": {
+              "value": "UC5WaBdGo714ZbJew1-iOS7Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-06-12T09:36:19Z",
+            "updatedAt": "2023-06-12T09:36:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "SsbtRN_u6jPkAssJIq7wjQsqH9c",
+      "id": "UgyEuG0wREid1ekgxX14AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "awTAt78IYhnelyZKeq0kjRrpmBw",
+          "id": "UgyEuG0wREid1ekgxX14AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "Just to point out it has become very clear, it was stagnant wages, which have not been increasing with worker productivity that caused debt to increase. Not money becoming sort of more intangible.",
+            "textOriginal": "Just to point out it has become very clear, it was stagnant wages, which have not been increasing with worker productivity that caused debt to increase. Not money becoming sort of more intangible.",
+            "authorDisplayName": "@Alex-cw3rz",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n0P3r2dt_xOW7IMpld2RrxGBWw0u14CCrewTD_k6rGgh-rAJJjEjQc9tcAQhDqX28vZA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@Alex-cw3rz",
+            "authorChannelId": {
+              "value": "UCdzwSqzjr25gtTVKbGnoi2w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-04-06T00:45:58Z",
+            "updatedAt": "2023-04-06T00:48:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "GuNF_hCZIXHucAGwmMvHPI0vpYY",
+      "id": "UgyI3LdbUz63ptzG3LN4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Y-C8zOPYmrhZwjN01jtUwnz-YzM",
+          "id": "UgyI3LdbUz63ptzG3LN4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "<a href=\"https://www.youtube.com/watch?v=_VB39Jo8mAQ&amp;t=480\">8:00</a> So basically the plot of Trading Places.",
+            "textOriginal": "8:00 So basically the plot of Trading Places.",
+            "authorDisplayName": "@reggiethecommenter9137",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kNn6ML5JlhLrSoExrtw_OWTxjwv-pPPh8GhTrE49w-bzrwzJrjG1FoMdgRo3BUt4v3Gw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@reggiethecommenter9137",
+            "authorChannelId": {
+              "value": "UCbKbEb77FOZGMLUqRg0eTlg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-03-27T03:42:35Z",
+            "updatedAt": "2023-03-27T03:42:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "wyB3PqfcycQKJEIUMHf9wtGTbJY",
+      "id": "UgyzE7AIgiVDZPiGVPZ4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "7JPXEP8d6jSpCanbTlzejtR4bmQ",
+          "id": "UgyzE7AIgiVDZPiGVPZ4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "ISNT THIS THE SIX FLAGS GUY MASCOT &quot;WE LIKE TO PARTY WE LIKE WE LIKE TO PARTY&quot;",
+            "textOriginal": "ISNT THIS THE SIX FLAGS GUY MASCOT \"WE LIKE TO PARTY WE LIKE WE LIKE TO PARTY\"",
+            "authorDisplayName": "@brian2970",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kHaW8Z3uXwI83EcCIr30_G0BxFzR13kqLi6O0epDRUBbFKcrlzQtJw1GAwojpPuyl88Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@brian2970",
+            "authorChannelId": {
+              "value": "UCYiZ1wzSK-A-USYfNTbgecg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-03-24T12:41:57Z",
+            "updatedAt": "2023-03-24T12:41:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "TXgYcOYH9_4cTuV_rd21cEJtQZE",
+      "id": "Ugx-OtfEBVb-LLkEm2l4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "EuW8KvQGbcOAB92CGMar9V3relg",
+          "id": "Ugx-OtfEBVb-LLkEm2l4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "I explained to my kids early on: If you owe the credit card company $500.00 at the end of the month.....and you pay $499.99 (one cent short) of it back....they will charge you interest  on the whole $500.00 you borrowed. It sounds crooked but that&#39;s what will happen....Always, ALWAYS pay the balance no matter what...or the cycle starts and you may never get out of it. Now days...the only thing they owe money on is their house...maybe a car......but that&#39;s it. I&#39;ve never bought a car on terms....my 3 houses are paid off and I&#39;m worth about 3 mil. I own a small, successful plumbing business.",
+            "textOriginal": "I explained to my kids early on: If you owe the credit card company $500.00 at the end of the month.....and you pay $499.99 (one cent short) of it back....they will charge you interest  on the whole $500.00 you borrowed. It sounds crooked but that's what will happen....Always, ALWAYS pay the balance no matter what...or the cycle starts and you may never get out of it. Now days...the only thing they owe money on is their house...maybe a car......but that's it. I've never bought a car on terms....my 3 houses are paid off and I'm worth about 3 mil. I own a small, successful plumbing business.",
+            "authorDisplayName": "@readmore3634",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/PA-dbvGSewKMtdGWLxi-Wg5sFX2_LhhW6V4nO4OmcbpUOQwCYXvgSbPkA9ZSSEL0wq4U369TeA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@readmore3634",
+            "authorChannelId": {
+              "value": "UCv56OVFYQ4TuF3_4Or-1-bg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-03-21T04:05:25Z",
+            "updatedAt": "2023-03-21T04:05:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}

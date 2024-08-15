@@ -1,0 +1,39 @@
+/* layout */
+.wrap {
+  padding: 0 24px;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1920px;
+  display: grid;
+  grid-template-columns: minmax(600px, 1fr) minmax(auto, 400px);
+  grid-template-rows: auto 1fr;
+  grid-template-areas:
+    'video related'
+    'comments related';
+  column-gap: 24px;
+  background-color: var(--color-bg-white);
+}
+.video {
+  grid-area: video;
+}
+.comments {
+  padding: 0;
+  grid-area: comments;
+}
+.related {
+  grid-area: related;
+}
+
+/* 반응형 */
+@media (max-width: 1016px) {
+  .wrap {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      'video'
+      'related'
+      'comments';
+  }
+  .related {
+    margin-bottom: 50px;
+  }
+}

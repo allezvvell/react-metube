@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "SLeZt2nx-IWXNBoe9dBcKdB-0Bo",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 291325,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gjjoksfGxRxt5D-x4s8f2JV1V40",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RX0wqX-3vhQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-24T04:28:30Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "난이도 극악 운전면허 시험｜크랩",
+        "description": "크랩 #90년대 #운전면허 80~90년대엔 면허 따기가 하늘에 별따기였다고 합니다. 파워핸들이 없던 시절, 핸들을 무 뽑듯이 돌려야 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RX0wqX-3vhQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RX0wqX-3vhQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RX0wqX-3vhQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-24T04:28:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8pk6jpHUAKT8HZ6YBv5M2OMjtcE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xfn5KCnzCnk"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-31T02:00:15Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "애가 이런데 어떻게 체조를 안 시켜요? 떡잎부터 남달랐던 여서정｜크랩",
+        "description": "크랩 #여서정 #파리올림픽 #kbs뉴스 Copyright c KBS. All rights reserved. 무단 전재, 재배포 및 이용(AI 학습 포함) 금지.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xfn5KCnzCnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xfn5KCnzCnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xfn5KCnzCnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-31T02:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ypgQV9Mbcwizivp0F5s3cNK8TgE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IMv37tbp584"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-27T04:00:16Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "필즈상 수상한 허준이 교수도 사용하는 분필｜크랩",
+        "description": "크랩 #허준이 #분필 세계적인 수학자들 사이에서 '천사의 눈물'로 만든 거 아니냐는 소리가 나올만큼 필감이 좋은 분필이 있는데요, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IMv37tbp584/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IMv37tbp584/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IMv37tbp584/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-27T04:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ipC76PVfGX1IkFMu9qR-9M51E3c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4viTDCjMbXI"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-17T04:00:05Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "에어컨 없던 90년대 여름나기｜크랩",
+        "description": "크랩 #90년대 #무더위 1990년대만 해도 에어컨이 흔치 않았습니다. 가격도 비쌌고, 에너지 효율도 좋지 않아 지하철역이나 학교 같은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4viTDCjMbXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4viTDCjMbXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4viTDCjMbXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-17T04:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q-Rt7Rbk78yGu7FNAns1SgME_mY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5mEf6XQ1nQI"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-19T01:00:03Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "미국서 반이민 정서 폭발…&quot;중국인 때문이라고?&quot;｜크랩",
+        "description": "크랩 #kbs뉴스 #불법이민 밀입국한 중국인들을 미국 정부가 전세기까지 띄워 추방했습니다. 미국인 2명 중 1명이 불법 이민에 대해 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5mEf6XQ1nQI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5mEf6XQ1nQI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5mEf6XQ1nQI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-19T01:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c2HKg3nd3pjH47ugHlnXERUzKEI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1TeeW-a7tJc"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-30T03:59:10Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "냉동인간 만드는 법  #shorts",
+        "description": "크랩 #과몰입 #냉동인간.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1TeeW-a7tJc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1TeeW-a7tJc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1TeeW-a7tJc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-30T03:59:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dZ_lCEO-zuVwejgGr8EHm2GuH7A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zO8sX0ypghQ"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-17T11:43:29Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "윔블던 최고령 챔피언, 로저 페더러",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zO8sX0ypghQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zO8sX0ypghQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zO8sX0ypghQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-17T11:43:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fzgtIVF892KBQ70_zAI0XqqJdlA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9LE6O6TZwtM"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-08T04:00:11Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "담배와의 전쟁 : 흡연자들 전성시대 ｜크랩",
+        "description": "1980년대 #흡연 #금연 성인 남성 78%가 담배를 피웠던 1980년대, 금연 구역을 찾기가 힘들 정도로 길거리 어느 곳에나 담배를 피울 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9LE6O6TZwtM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9LE6O6TZwtM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9LE6O6TZwtM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-08T04:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "us7tY0f3eHhu9PbXi6359wMPlVA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Fn5OyCNnx8M"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-28T06:48:21Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "아인슈타인이 양자역학의 안티였던 이유 #shorts",
+        "description": "크랩 #과몰입 #양자역학.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fn5OyCNnx8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fn5OyCNnx8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fn5OyCNnx8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-28T06:48:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "10lVXPvTT9rKou_-Gyte07-ngRg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kmZ9e6PV-PM"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-14T01:00:33Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "파리 올림픽 픽토그램이 역대급 반응 쏟아진 이유｜크랩",
+        "description": "크랩 #픽토그램 #파리올림픽 #kbs뉴스.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kmZ9e6PV-PM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kmZ9e6PV-PM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kmZ9e6PV-PM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-14T01:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xqCB4SAz42BmsHXgkbskzmzDwNw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kd_icVYllOM"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-22T01:00:23Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "사유재산이라 못 건드린다고? 언제 무너져도 이상하지 않은 수도권 폐건물 탐방기｜크랩",
+        "description": "크랩 #kbs뉴스 #폐건물 #빈집 올여름 장마가 시작부터 거센 비를 쏟아내고 있는데요. 장마철이 되면 폐건물들에서 낙하물이 생기는 등 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kd_icVYllOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kd_icVYllOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kd_icVYllOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-22T01:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RO2dw_8Jg33iD1nZa-Qg9zg-cw0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GZqc2K_QaVY"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-31T01:12:46Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "실력부터 매너까지… ‘펜싱 황제’ 됐다는 오상욱 아카이브 탈탈 털어봄!｜크랩",
+        "description": "크랩 #펜싱금메달 #오상욱 #kbs뉴스 2024 파리 올림픽 남자 사브르 개인전에서 금메달을 탈환하며 국내 최초로 펜싱 사브르 개인전 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GZqc2K_QaVY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GZqc2K_QaVY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GZqc2K_QaVY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-31T01:12:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kHwPRb1cdTwBkS4YAI8fcR9H7Qg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EbvqHT9F5tg"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-31T04:00:08Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "우리나라 페트병과 일본 페트병, 왜 다를까요? ｜크랩",
+        "description": "크랩 #페트병 #무라벨 투명 페트병은 다른 플라스틱과 구분해 따로 분리 배출해야 하는 거죠. 페트병은 몸통만 재활용되기 때문에 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EbvqHT9F5tg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EbvqHT9F5tg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EbvqHT9F5tg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-31T04:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vUq5vrpAuE7DL1C5XqaiMMRo9UU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OBMxq-c76Rw"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-12T01:00:08Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "??: 내 안의 두개의 자아가 싸운다… 틱톡 두고 자아 충돌하는 해외 정치인들?｜크랩",
+        "description": "크랩 #바이든 #트럼프 #틱톡 정치인들까지 뛰어들고 있는 SNS! 그런데, 최근 유럽과 미국에서 '틱톡 반대'를 외쳤던 정치인들이 돌연, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OBMxq-c76Rw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OBMxq-c76Rw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OBMxq-c76Rw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-12T01:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NFDpJ4VaFDiyIozTcRNHz796r48",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mlpe8YSdnrM"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-28T00:00:31Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "이게 바로 한국 양궁 클래스! 김경욱·오진혁 선수 명장면｜크랩",
+        "description": "크랩 #양궁 #파리올림픽 #kbs뉴스 한국 양궁 대표팀이 화끈한 출발을 알렸습니다. 대진표를 정하는 랭킹 라운드에서 임시현이 세계 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mlpe8YSdnrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mlpe8YSdnrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mlpe8YSdnrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-28T00:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oXNnlPkR635HoOOGGgJj480YpZY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PnUyZzjsOJk"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-13T01:00:11Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "하이패스 단말기 없어도 요금소 무정차 통과하는 고속도로 근황｜크랩",
+        "description": "크랩 #스마트톨링 #하이패스 #고속도로 하이패스 단말기가 없어도 무정차로 통과할 수 있는 '스마트톨링' 시범 사업이 진행 중입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PnUyZzjsOJk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PnUyZzjsOJk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PnUyZzjsOJk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-13T01:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aC2l9KaTPE_1mzzdr7CcY1p7z8E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5G1s7ba-IUI"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-01T04:00:05Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "콘택트렌즈 격일로 껴야 하나?｜크랩",
+        "description": "크랩 #콘택트렌즈 #렌즈 한 온라인 커뮤니티에 '올바른 콘택트렌즈 착용법' 글이 올라왔습니다. 이 글에 따르면, 콘택트렌즈는 격일로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5G1s7ba-IUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5G1s7ba-IUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5G1s7ba-IUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-01T04:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D23aIv3VRh8qgQuOEnOJ0lZogG0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xJnS4eSy9sU"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-11T02:00:35Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "잘 때 &#39;만세&#39; 하면 안 되는 이유와 올바른 수면 자세｜크랩",
+        "description": "크랩 #만세자세 #kbs뉴스 두 팔을 머리 위로 뻗은 만세 자세로 자는 게 몸에 안 좋다는 사실 아셨나요? 원래는 불편해야 하는 만세 자세 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xJnS4eSy9sU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xJnS4eSy9sU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xJnS4eSy9sU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-11T02:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YCcZAp6QrDqptr63dnYRA0BkpSY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "trMt-Mqei7Y"
+      },
+      "snippet": {
+        "publishedAt": "2024-06-19T07:00:33Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "우리 그냥 사랑하게 해주세요... 비슷한 점 많은 김정은과 푸틴｜크랩",
+        "description": "크랩 #푸틴 #김정은 #kbs뉴스 블라디미르 푸틴 러시아 대통령이 24년 만에 북한을 방문해 김정은 북한 국무위원장을 만납니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/trMt-Mqei7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/trMt-Mqei7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/trMt-Mqei7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-06-19T07:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nI-A-P2nWjUmz4OOIHKLToCuinQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MkSocCTgebM"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-14T01:00:16Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "‘혐한’ 전화 받던 교토국제고, 고시엔에서 한국어 교가 부른다｜크랩",
+        "description": "크랩 #고시엔 #교토국제고 #kbs뉴스 일본 내 한국계 민족학교인 교토국제고가 2년 만에 전국고교야구선수권대회, 일명 '고시엔'에서 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MkSocCTgebM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MkSocCTgebM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MkSocCTgebM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-14T01:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GApHFeXPe1RlD_jfT3exHTssHG8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B_njq4xmtqw"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-11T01:00:04Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "이제 멀티버스 몰라도 되는 거야?로다주, 악당으로 &#39;어벤져스&#39; 복귀｜크랩",
+        "description": "크랩 #로다주 #마블 #kbs뉴스 요즘 기억나는 마블 영화 있으신가요? 어벤져스 이후로 발길 뚝 끊으셨다고요? 아이언맨으로 마블 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B_njq4xmtqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B_njq4xmtqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B_njq4xmtqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-11T01:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b9GtZjMOwsED698ipaZqFjv8YNc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NnBXjtUetYo"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-11T04:00:13Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "클럽, 워터파크, 놀이공원 팔찌 원료, 종이 아닌 &#39;이것&#39;이어서 힘으로 안 끊어지는 겁니다.｜크랩",
+        "description": "크랩 #타이벡 #팔찌 클럽, 워터파크, 놀이공원등을 가면 팔찌에 입장권을 감아주는 경우가 많습니다. 신나게 놀고나서 막상 손으로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NnBXjtUetYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NnBXjtUetYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NnBXjtUetYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-11T04:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6YCuN4232OnMoSbZJS376pFEutY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "roJUOU5sJXw"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-13T01:00:28Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "“믿었던 박혜정이 일냈다!!!” 03년생 박혜정이 이끈 전현무 역도 중계.zip｜크랩",
+        "description": "크랩 #역도 #박혜정 #kbs뉴스 지난 11일 열린 역도 여자 81kg 이상급 경기. 한 프로그램에서 박혜정 선수와 인연을 맺었던 전현무 전 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/roJUOU5sJXw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/roJUOU5sJXw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/roJUOU5sJXw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-13T01:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r8RNbUB0NQB6lv1mewkq7okgnlg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ACTYDh0f5C0"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-13T02:00:10Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "브레이킹 해설까지 접수한 박재민 해설위원의 족집게 강의｜크랩",
+        "description": "크랩 #홍텐 #브레이킹 #kbs뉴스 Copyright c KBS. All rights reserved. 무단 전재, 재배포 및 이용(AI 학습 포함) 금지.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ACTYDh0f5C0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ACTYDh0f5C0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ACTYDh0f5C0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-13T02:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eqjaBag4JllIRb2Jsb2pqe2qst8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BOnrHDgrL-0"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-10T01:00:06Z",
+        "channelId": "UCoxT1kQSLq564FwpK473w-g",
+        "title": "요즘 러닝족은 나이키 말고 호카, 온 신는다고요?｜크랩",
+        "description": "크랩 #나이키 #러닝화 #kbs뉴스 혁신의 아이콘, 'Just Do It!'의 나이키! 최근 올린 올림픽 영상에 해외 누리꾼들 혹평이 이어지고 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BOnrHDgrL-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BOnrHDgrL-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BOnrHDgrL-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크랩 KLAB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-10T01:00:06Z"
+      }
+    }
+  ]
+}

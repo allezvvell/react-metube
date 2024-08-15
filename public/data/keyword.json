@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "tKjijY9-QT7TUIh0EQKrUoSlLic",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yImLCk-WfOAxZTVcWKZADyk7Rv0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y75WB4lPnGo"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-12T08:31:40Z",
+        "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+        "title": "[뉴스 &#39;꾹&#39;] &quot;그냥 바로 들어가!&quot; 헐레벌떡..박혜정 &#39;3차 시기&#39; 영상봤더니 (2024.08.12/MBC뉴스)",
+        "description": "파리올림픽 #역도 #박혜정 ㅤ c MBC & iMBC 무단 전재, 재배포 및 이용(AI학습 포함)금지.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y75WB4lPnGo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y75WB4lPnGo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y75WB4lPnGo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCNEWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-12T08:31:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qpXjz2Wz1khj-EEGydYwFMLNwnw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dl938OZ-k6Y"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-13T08:44:17Z",
+        "channelId": "UCUQVGXF4U-PupGCPdIRX4Qw",
+        "title": "북한 응원단 앞에서 아찔한 도발...파리 올림픽에도 등장한 &#39;김정은 닮은꼴&#39; / 스포츠머그",
+        "description": "2018 평창 올림픽 당시 김정은 북한 국무위원장 코스프레를 하고 경기장에 나타났던 하워드 엑스(호주)가 2024 파리 올림픽에 다시 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dl938OZ-k6Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dl938OZ-k6Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dl938OZ-k6Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠머그 - SPORTSMUG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-13T08:44:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9LJbj5lAab78fquLwPtPuelxleg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wf9hNfYlizU"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-12T08:20:41Z",
+        "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+        "title": "[뉴스 &#39;꾹&#39;] 국대팀 탈퇴하고 올림픽 &#39;금&#39; 악셀센, 안세영에게 남긴 말.. (2024.08.12/MBC뉴스)",
+        "description": "안세영 #배드민턴 #빅토르악셀센 ㅤ c MBC & iMBC 무단 전재, 재배포 및 이용(AI학습 포함)금지.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wf9hNfYlizU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wf9hNfYlizU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wf9hNfYlizU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCNEWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-12T08:20:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tIpWxI8dz9txea73NSwpHW06phI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vW7QnczXM4U"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-13T11:57:06Z",
+        "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+        "title": "&#39;관중과 함께 뛴 마라톤&#39;‥&#39;올림픽 최고의 순간들&#39; (2024.08.13/뉴스데스크/MBC)",
+        "description": "파리올림픽에서 전 세계 스포츠 팬들의 시선을 사로잡은 최고의 장면, 어떤 것들이 떠오르시나요?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vW7QnczXM4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vW7QnczXM4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vW7QnczXM4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCNEWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-13T11:57:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rOjKlvscsZDqCEmLRkpifJyOYps",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ugmjRjVF4vo"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-13T13:48:18Z",
+        "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+        "title": "144명이 일군 &#39;파리의 기적&#39;...올림픽 선수단 금의환향 / YTN",
+        "description": "[앵커] 프랑스 파리에서 메달 32개를 수확하며 뜨거운 여름밤 더 뜨거운 감동을 선물한 올림픽 선수단 본진이 금의환향했습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ugmjRjVF4vo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ugmjRjVF4vo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ugmjRjVF4vo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": " YTN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-13T13:48:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S5QkBWHimxF5V1KCaLNCP-gdUPc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CIOh8PfrVyg"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-13T11:56:59Z",
+        "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+        "title": "[🔴현장] 2024 파리올림픽 대한민국 선수단 입국/ &quot;치킨부터 먹을래요&quot; &quot;아쉬움은 센강에 던졌어요&quot; 선수 인터뷰/2024년 8월 13일(화)/KBS",
+        "description": "2024 파리올림픽, 그 멋진 승부를 마친 대한민국 선수단이 금의환향했습니다. 이번 올림픽에서 한국은 최소 규모로 최고 성적을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CIOh8PfrVyg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CIOh8PfrVyg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CIOh8PfrVyg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-13T11:56:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DylGS5OQe8if7jLnKvyP11hSCA0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PmjmiIJ0QD8"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-11T22:00:23Z",
+        "channelId": "UCArK9MK34LsQzPJrl5TZmYA",
+        "title": "파리올림픽 대한민국 환희의 순간들! [2024 파리올림픽 대한민국 메달 모음]",
+        "description": "2024 파리올림픽 대한민국 메달 모음 #파리올림픽 #대한민국 #금메달 #은메달 #동메달 #sports #mbc #국뽕.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PmjmiIJ0QD8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PmjmiIJ0QD8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PmjmiIJ0QD8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBC스포츠탐험대",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-11T22:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m8b6lMkn4F2jXnrWrGMAsWBqj7M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yaFfiaEQ3u0"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-12T02:58:21Z",
+        "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+        "title": "[뉴스 &#39;꾹&#39;] &quot;모두 똑같으면 그게 역차별&quot; .. 안세영 입 열자 쏟아진 반응 (2024.08.12/MBC뉴스)",
+        "description": "안세영 #배드민턴 #파리올림픽 c MBC & iMBC 무단 전재, 재배포 및 이용(AI학습 포함)금지.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yaFfiaEQ3u0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yaFfiaEQ3u0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yaFfiaEQ3u0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCNEWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-12T02:58:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uWUj4tHZdIz_K2azGwFkmOeQaVs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2GHXDLG8OjU"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-12T20:41:52Z",
+        "channelId": "UCWGk_-J9WJxgFBAgJXi4ilA",
+        "title": "[🔴김예지 실신] 올림픽 사격 은메달 &#39;김예지 실신&#39; 풀영상 (실신 + 119 이송 + 감독 인터뷰 +병원  인터뷰)",
+        "description": "김예지실신 #사격김예지 #사격은메달김예지 #파리올림픽 #임실군청 #임실군수 #심민임실군수 #김예지임실군청 #쓰러진김예지.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2GHXDLG8OjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2GHXDLG8OjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2GHXDLG8OjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JTV뉴스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-12T20:41:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E8rkprtxJuw8LIk2kZ5973hmYP8",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCTl3QQTvqHFjurroKxexy2Q"
+      },
+      "snippet": {
+        "publishedAt": "2006-01-10T17:22:11Z",
+        "channelId": "UCTl3QQTvqHFjurroKxexy2Q",
+        "title": "Olympics",
+        "description": "Welcome to the Olympics YouTube channel, where the Games never end! From the best musical moments at the Olympic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nluEWCse21YbTlTHnnt6YtkIbSTFue0qBvGpLTGGRyquTB=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nluEWCse21YbTlTHnnt6YtkIbSTFue0qBvGpLTGGRyquTB=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nluEWCse21YbTlTHnnt6YtkIbSTFue0qBvGpLTGGRyquTB=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Olympics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2006-01-10T17:22:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zVm__wS7_qr3uY197s8XGqPRMp0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JvhGjV2t6sc"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-12T08:09:43Z",
+        "channelId": "UC3m0s5XAQydCtbLHc8j1Uog",
+        "title": "[#사당귀] 첫 스포츠 중계가 올림픽?😲 22년차 프로 방송인 전현무의 &#39;첫&#39; 역도 캐스터 도전기! ｜KBS 240811 방송",
+        "description": "사장님귀는당나귀귀 일요일 오후 4시 40분 KBS 2TV 역도 박혜정 선수와의 약속으로 역도 현장 중계에 나선 현무 22년차 프로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JvhGjV2t6sc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JvhGjV2t6sc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JvhGjV2t6sc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS 한국방송",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-12T08:09:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ufoI9oBz_Gc2H3hFAAxLwO_-Hbw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qjbLWqAt25s"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-11T23:27:08Z",
+        "channelId": "UCYRrUD5v5j_Ei8sKOo7mhoQ",
+        "title": "[폐회식 하이라이트] &quot;다음은 LA야!&quot; 확실히 각인한 미국 슈퍼스타들의 해변 공연 풀영상",
+        "description": "파리올림픽 폐회식이 12일(한국시간) 열렸습니다. 차기 개최지 LA로 올림픽기를 이양하며 헐리우드 톱스타 톰크루즈가 하늘에서 영화 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qjbLWqAt25s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qjbLWqAt25s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qjbLWqAt25s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "엠빅뉴스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-11T23:27:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HtXZOvTXvubT-zH7mzho5dEvW-s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2ZHvx5vCxpo"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-12T08:01:57Z",
+        "channelId": "UCLKuglhGlMmDteQKoniENIQ",
+        "title": "5,000m와 10,000m, 마라톤 메달리스트 등장! ‘신인류’ 시판 하산 / 14F",
+        "description": "'신인류' 시판 하산 선수의 한계는 어디까지일까요? 하산이 여자 마라톤에서 올림픽신기록으로 금메달을 땄습니다. 막판 스퍼트는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2ZHvx5vCxpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2ZHvx5vCxpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2ZHvx5vCxpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "14F 일사에프",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-12T08:01:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E9QwlNbrbY4cI3Zrg9v59drTn5g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_CturzWPw18"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-10T09:02:30Z",
+        "channelId": "UC1ifSsWUG241rRfK0ezYCgA",
+        "title": "&quot;파리 올림픽에 김정은 방문?&quot;...코스프레 남성 &#39;충격&#39; 행동 / KNN",
+        "description": "knn뉴스 #김정은 ▷ 전화 부산 051-850-9000 경남 055-283-0505 ▷ 이메일 jebo@knn.co.kr ▷ knn 홈페이지/앱 접속, 제보 누르기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_CturzWPw18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_CturzWPw18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_CturzWPw18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KNN NEWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-10T09:02:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1V912pxIgTKjgiRKDqBDJuFvnmw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hdI27YXQtds"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-03T21:01:48Z",
+        "channelId": "UCDIB1DOwPPe58M2fHPyVVDA",
+        "title": "대대대역전 드라마!!!!! 육상 혼성 4x400m 계주 결승 [2024 파리올림픽] | KBS 240804 방송",
+        "description": "2024파리올림픽 #육상 #계주 #네덜란드 #미국 Copyright c KBS. All rights reserved. 무단 전재, 재배포 및 이용(AI 학습 포함) 금지.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hdI27YXQtds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hdI27YXQtds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hdI27YXQtds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-03T21:01:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lBieJUBhRL0sd7cONORvyctwyEY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gyINEQhJO-U"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-01T10:01:46Z",
+        "channelId": "UC9_093tAK3bXyZfT84efbvg",
+        "title": "시작 타이밍 놓쳐버린 국가대표ㅎㄷㄷ",
+        "description": "Copyright ©️ KBS. All rights reserved. 무단 전재, 재배포 및 이용(AI 학습 포함) 금지 #파리올림픽#올림픽#올림픽금메달#펜싱#펜싱 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gyINEQhJO-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gyINEQhJO-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gyINEQhJO-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "esports KBS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-01T10:01:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PVTwC5FChOPKA-1x9C_SFUr8PT4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r19xNeSG8X8"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-10T21:05:44Z",
+        "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+        "title": "해설진도 “우와아” 외쳤다…세계 최고 아티스틱 스위밍 연기 / KBS 2024 파리올림픽 2024.08.11.",
+        "description": "파리 올림픽 아티스틱 스위밍 듀엣 프리 루틴에서 중국의 왕류이와 왕첸이 선수가 인상적인 명연을 펼쳤습니다. 이들은 금메달을 획득 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r19xNeSG8X8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r19xNeSG8X8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r19xNeSG8X8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-10T21:05:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Sj474-H05UH37Y6vStj77HtJ220",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6LjIGHQenk0"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-11T23:31:14Z",
+        "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+        "title": "[오늘의 파리] &quot;다음 올림픽은 LA입니다!!&quot; 슈퍼스타 해변 공연, 폐회식 &#39;후끈&#39; (2024.8.12 엠빅뉴스)",
+        "description": "ㅤ파리올림픽 폐회식이 12일(한국시간) 열렸습니다. 차기 개최지 LA로 올림픽기를 이양하며 헐리우드 톱스타 톰크루즈가 하늘에서 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6LjIGHQenk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6LjIGHQenk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6LjIGHQenk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCNEWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-11T23:31:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GtuwmIGVujry0-AuHrK7WVrDwRg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UWzdLd9mtKQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-11T11:16:15Z",
+        "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+        "title": "쓰러질 듯 통과한 결승선...성승민, 올림픽 근대5종 동메달 &#39;아시아 여자 선수 최초 입상&#39; / KBS 2024 파리올림픽 2024.08.11.",
+        "description": "우리나라의 성승민이 아시아 여자 선수로는 처음으로 올림픽 근대 5종 여자부 경기에서 메달을 획득했습니다. 성승민은 11일(현지 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UWzdLd9mtKQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UWzdLd9mtKQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UWzdLd9mtKQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-11T11:16:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t40CgYDbP9xGnI1bHMqrbagVuao",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CwzjlmBLfrQ"
+      },
+      "snippet": {
+        "publishedAt": "2012-07-27T21:39:25Z",
+        "channelId": "UCTl3QQTvqHFjurroKxexy2Q",
+        "title": "Mr. Bean Live Performance at the London 2012 Olympic Games",
+        "description": "Watch all the #Paris2024 action LIVE! ➡️ https://go.olympics.com/watch Rowan Atkinson performs under the guise of his famous ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CwzjlmBLfrQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CwzjlmBLfrQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CwzjlmBLfrQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Olympics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-07-27T21:39:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GkpvRF2pabLlcpg-9aM2wG_yHMs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XZpjg6pOuik"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-07T06:00:14Z",
+        "channelId": "UC9_093tAK3bXyZfT84efbvg",
+        "title": "서핑 고인물의 금메달 라이딩 ㄷㄷ",
+        "description": "Copyright ©️ KBS. All rights reserved. 무단 전재, 재배포 및 이용(AI 학습 포함) 금지 #파리올림픽#올림픽#서핑#서핑금메달#서핑 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XZpjg6pOuik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XZpjg6pOuik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XZpjg6pOuik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "esports KBS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-07T06:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2d0ZJ6MnfvnaSj9Vei00VV6X8TI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_lHQBaRDa7M"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-01T18:41:00Z",
+        "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+        "title": "29점 쏘고 웃었는데..희망 꺾어버린 제덕쿵야 #shorts",
+        "description": "더 자세한 정보 보기 https://news.sbs.co.kr/y/?id=N1007747255 다시 뜨겁게! 2024 파리올림픽 특집 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_lHQBaRDa7M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_lHQBaRDa7M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_lHQBaRDa7M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS 뉴스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-01T18:41:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I5t3We9-yKLCxLlZQBwvuW1ghbc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tRE_ko63N3I"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-10T19:56:32Z",
+        "channelId": "UCArK9MK34LsQzPJrl5TZmYA",
+        "title": "초대 한인 B-Boy의 탄생! [파리올림픽 브레이킹 B-Boys 결승 하이라이트]",
+        "description": "파리올림픽 #하이라이트 #브레이킹 #홍텐 #비보이 #문병순 #토카토카 #토카토카댄스.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tRE_ko63N3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tRE_ko63N3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tRE_ko63N3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBC스포츠탐험대",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-10T19:56:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4KA68uG1dGXNC64quGbnyDFQWtc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yqkgAJJ_VXs"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-06T16:06:23Z",
+        "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+        "title": "[하이라이트] 스포츠클라이밍 콤바인 여자 볼더링…&#39;퍼펙트&#39;! 야냐 가른브렛  / KBS 2024 파리올림픽  2024.08.07.",
+        "description": "여자 스포츠 클라이밍의 최강자 야냐 가른브렛(슬로베니아) 선수가 볼더링 경기에서 압도적 경기력을 선보이며 1위에 올랐습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yqkgAJJ_VXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yqkgAJJ_VXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yqkgAJJ_VXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-06T16:06:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1OQmxQGGstqvJVT_D6yCOhWisZg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ztYOz_Rw6Lc"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-01T13:26:09Z",
+        "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+        "title": "&quot;귀여워서 난리 났어요&quot;…8강전 최고 명장면(?) #shorts",
+        "description": "신유빈 #간식 #먹방 더 자세한 정보 보기 https://news.sbs.co.kr/y/?id=N1007747161 다시 뜨겁게! 2024 파리올림픽 특집 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ztYOz_Rw6Lc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ztYOz_Rw6Lc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ztYOz_Rw6Lc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS 뉴스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-01T13:26:09Z"
+      }
+    }
+  ]
+}

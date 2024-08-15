@@ -1,0 +1,14 @@
+.wrap {
+  padding: 20px 60px 0;
+}
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+@media (max-width: 600px) {
+  .wrap {
+    padding: 20px 30px 0;
+  }
+}

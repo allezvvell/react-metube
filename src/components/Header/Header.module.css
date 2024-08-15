@@ -1,0 +1,163 @@
+.header {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 100;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 18px;
+  height: var(--height-header);
+  background-color: var(--color-bg-white);
+}
+.start {
+  display: flex;
+  align-items: center;
+}
+.start .menuBtn,
+.start .mobileMenuBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 2.2rem;
+  height: 2.2rem;
+  font-size: 1.3rem;
+  border-radius: 50%;
+}
+.start .menuBtn:hover,
+.start .mobileMenuBtn:hover {
+  background-color: var(--color-bg-gray1);
+}
+.start .mobileMenuBtn {
+  display: none;
+}
+.logo {
+  margin-left: 1rem;
+  width: 8rem;
+}
+.logo img {
+  width: 100%;
+}
+.closeSearchBtn {
+  display: none;
+}
+.center {
+  flex: 0 1 700px;
+  display: flex;
+  align-items: center;
+  height: 2.5rem;
+}
+.center input[type='text'] {
+  margin-left: 40px;
+  padding: 0 1rem 0 1.2rem;
+  width: 100%;
+  min-width: 0;
+  height: 100%;
+  font-size: 1rem;
+  border: 1px solid var(--color-border-gray);
+  border-radius: 1.5rem 0 0 1.5rem;
+}
+.center button[type='submit'] {
+  flex-shrink: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.3rem;
+  color: #333;
+  margin-left: -1px;
+  width: 64px;
+  height: 100%;
+  border: 1px solid var(--color-border-gray);
+  border-radius: 0 1.5rem 1.5rem 0;
+  background-color: var(--color-bg-gray2);
+}
+.center button[type='button'] {
+  display: none;
+}
+
+.end {
+  display: flex;
+  /* background-color: skyblue; */
+}
+.end .darkBtn {
+  margin-left: 40px;
+  width: 2.2rem;
+  height: 2.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.1rem;
+  border-radius: 50%;
+}
+.end .darkBtn:hover {
+  background-color: var(--color-bg-gray1);
+}
+.end .darkBtn.dark {
+  font-size: 1.2rem;
+}
+
+/* 반응형 */
+@media (max-width: 480px) {
+  .header {
+    padding: 0 0.5rem;
+  }
+  .start .menuBtn {
+    display: none;
+  }
+  .start .mobileMenuBtn {
+    display: flex;
+  }
+  .search-on .start .mobileMenuBtn {
+    display: none;
+  }
+  .search-on .logo {
+    display: none;
+  }
+  .search-on .closeSearchBtn {
+    width: 2.2rem;
+    height: 2.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 1.3rem;
+  }
+  .search-on .closeSearchBtn:hover {
+    background-color: var(--color-bg-gray1);
+  }
+  .center {
+    justify-content: flex-end;
+  }
+  .center input[type='text'] {
+    display: none;
+  }
+  .search-on .center input[type='text'] {
+    display: inline-block;
+    margin-left: 10px;
+  }
+  .center button[type='submit'] {
+    display: none;
+  }
+  .search-on .center button[type='submit'] {
+    display: flex;
+  }
+  .center button[type='button'] {
+    width: 2.2rem;
+    height: 2.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 1.3rem;
+  }
+  .center button[type='button']:hover {
+    background-color: var(--color-bg-gray1);
+  }
+  .search-on .center button[type='button'] {
+    display: none;
+  }
+  .end .darkBtn {
+    margin-left: 0;
+  }
+}

@@ -1,0 +1,77 @@
+.background {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #000;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 200ms;
+}
+.background.on {
+  visibility: visible;
+  opacity: 0.5;
+}
+
+.nav {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  visibility: hidden;
+  background-color: var(--color-bg-white);
+  transform: translateX(-100%);
+  transition: all 200ms;
+}
+.nav.on {
+  visibility: visible;
+  transform: translateX(0);
+}
+.header {
+  padding: 0 2.5rem 0 0.5rem;
+  display: flex;
+  align-items: center;
+  height: var(--height-header);
+}
+.header button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 2.2rem;
+  height: 2.2rem;
+  font-size: 1.3rem;
+}
+.header a {
+  margin-left: 1rem;
+  width: 8rem;
+}
+.header a img {
+  width: 100%;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+}
+.menu > a {
+  padding: 10px 8px;
+  margin: 0 8px;
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  font-size: 14px;
+  border-radius: 6px;
+}
+.menu > a:hover {
+  background-color: var(--color-bg-gray1);
+}
+.menu > a.active {
+  background-color: var(--color-bg-gray1);
+}
+.menu > a svg {
+  font-size: 1.2rem;
+}
+.menu > a:first-child svg {
+  font-size: 1.4rem;
+}

@@ -1,0 +1,15 @@
+.bar {
+  overflow: hidden;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 110;
+  height: 6px;
+  background-color: var(--color-bg-gray1);
+}
+.fill {
+  height: 100%;
+  background-color: #9b5dff;
+  transition: width 50ms ease-in;
+}
