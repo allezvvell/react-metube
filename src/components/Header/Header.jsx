@@ -32,7 +32,10 @@ export default function Header({ toggleMenu, toggleMobileMenu }) {
         </button>
         <h1 className={styles.logo}>
           <Link to="/">
-            <img src={`assets/logo${isDark ? '_dark' : ''}.png`} alt="metube" />
+            <img
+              src={`/assets/logo${isDark ? '_dark' : ''}.png`}
+              alt="metube"
+            />
           </Link>
         </h1>
         <button
