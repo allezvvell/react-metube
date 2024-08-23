@@ -78,7 +78,7 @@
     margin-bottom: 14px;
     width: auto;
     max-width: none;
-    min-width: none;
+    min-width: 0;
   }
   .desc {
     width: auto;

@@ -1,5 +1,5 @@
-import React, { useContext, useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
+import React, { useContext, useState, useEffect } from 'react';
+import { Link, useNavigate, useParams } from 'react-router-dom';
 import { RxHamburgerMenu } from 'react-icons/rx';
 import { IoArrowBackOutline } from 'react-icons/io5';
 import { IoSearch } from 'react-icons/io5';
@@ -11,6 +11,7 @@ import { DarkModeContext } from '../../context/DarkModeContext';
 export default function Header({ toggleMenu, toggleMobileMenu }) {
   const [isSearch, setIsSearch] = useState(false);
   const { isDark, toggleIsDark } = useContext(DarkModeContext);
+  const { q } = useParams();
   const [text, setText] = useState('');
   const navigate = useNavigate();
   const handleSubmit = (e) => {
@@ -19,6 +20,13 @@ export default function Header({ toggleMenu, toggleMobileMenu }) {
     navigate(`/search/${text}`);
   };
 
+  useEffect(() => {
+    if (!q) {
+      setText('');
+    } else {
+      setText(q);
+    }
+  }, [q]);
   return (
     <header
       className={`${styles.header} ${isSearch ? styles['search-on'] : ''}`}

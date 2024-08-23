@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import styles from './VideoCardB.module.css';
-import { useChannelDetail } from '../../hooks/useChannelDetail';
-import Moment from 'react-moment';
-import 'moment/locale/ko';
+import { formateDate } from '../../utils/commonFunctions';
+import { useQuery } from '@tanstack/react-query';
+import { useYoutubeApi } from '../../context/YoutubeApiContext';
 
 export default function VideoCardB({ item }) {
   const { id, snippet } = item;
@@ -15,8 +15,13 @@ export default function VideoCardB({ item }) {
     channelTitle: cTitle,
     publishedAt: date,
   } = snippet;
-  //   console.log(snippet);
-  const { isError, data } = useChannelDetail(cId);
+
+  const youtube = useYoutubeApi();
+  const { error, data } = useQuery({
+    queryKey: ['channel', cId],
+    queryFn: () => youtube.channel({ id: cId }),
+  });
+
   return (
     <Link to={`/watch/${id.videoId}`} className={styles.item}>
       <div className={styles['img-wrap']}>
@@ -25,20 +30,16 @@ export default function VideoCardB({ item }) {
       <div className={styles.desc}>
         <h3>{title}</h3>
         <div className={styles.count}>
-          <span className={styles.date}>
-            <Moment fromNow locale="ko">
-              {date}
-            </Moment>
-          </span>
+          <span className={styles.date}>{formateDate(date)}</span>
         </div>
         <div className={styles.channel}>
           <img
             src={
-              !isError
-                ? data?.items[0].snippet.thumbnails.default.url
+              !error
+                ? data?.snippet.thumbnails.default.url
                 : 'assets/channel_profile.png'
             }
-            alt="채널프로필"
+            alt={cTitle}
           />
           <span>{cTitle}</span>
         </div>

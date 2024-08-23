@@ -9,6 +9,7 @@ import NotFound from './pages/NotFound/NotFound';
 import History from './pages/History/History';
 import { DarkModeProvider } from './context/DarkModeContext';
 import { HistoryProvider } from './context/HistoryContext';
+import { YoutubeApiProvider } from './context/YoutubeApiContext';
 
 const router = createBrowserRouter([
   {
@@ -29,11 +30,13 @@ const router = createBrowserRouter([
 ]);
 function App() {
   return (
-    <DarkModeProvider>
-      <HistoryProvider>
-        <RouterProvider router={router} />
-      </HistoryProvider>
-    </DarkModeProvider>
+    <YoutubeApiProvider>
+      <DarkModeProvider>
+        <HistoryProvider>
+          <RouterProvider router={router} />
+        </HistoryProvider>
+      </DarkModeProvider>
+    </YoutubeApiProvider>
   );
 }
 

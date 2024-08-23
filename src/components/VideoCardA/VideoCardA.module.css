@@ -1,6 +1,17 @@
+.img-wrap {
+  overflow: hidden;
+  position: relative;
+}
 .img-wrap img {
   width: 100%;
   border-radius: 10px;
+}
+.img-wrap iframe {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
 }
 .desc-wrap {
   padding-top: 12px;
@@ -31,7 +42,11 @@
   font-size: 14px;
   color: var(--color-text-gray1);
 }
-.desc span {
+.desc .count {
+  display: flex;
+  gap: 6px;
+}
+.desc .count span {
   font-size: 14px;
   color: var(--color-text-gray1);
 }

@@ -29,10 +29,18 @@
   margin-bottom: 5px;
   display: flex;
   gap: 10px;
+  align-items: center;
 }
 .comment-info .name {
+  flex: 0 1 auto;
   font-size: 13px;
   font-weight: bold;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  word-break: break-all;
 }
 .comment-info .date {
   font-size: 12px;

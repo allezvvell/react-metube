@@ -6,6 +6,11 @@ import { TiHome } from 'react-icons/ti';
 import { FaHistory } from 'react-icons/fa';
 import { DarkModeContext } from '../../../context/DarkModeContext';
 
+const navList = [
+  { to: '/', icon: <TiHome />, txt: '홈' },
+  { to: '/history', icon: <FaHistory />, txt: '기록' },
+];
+
 const MenuMobile = ({ isOn, toggleMenu }) => {
   const { isDark } = useContext(DarkModeContext);
   return (
@@ -16,24 +21,25 @@ const MenuMobile = ({ isOn, toggleMenu }) => {
           <button onClick={toggleMenu}>
             <RxHamburgerMenu />
           </button>
-          <Link>
-            <img src={`assets/logo${isDark ? '_dark' : ''}.png`} alt="metube" />
+          <Link to="/" onClick={toggleMenu}>
+            <img
+              src={`/assets/logo${isDark ? '_dark' : ''}.png`}
+              alt="metube"
+            />
           </Link>
         </div>
         <div className={styles.menu}>
-          <NavLink
-            to="/"
-            className={({ isActive }) => (isActive ? styles.active : '')}
-          >
-            <TiHome />홈
-          </NavLink>
-          <NavLink
-            to="/history"
-            className={({ isActive }) => (isActive ? styles.active : '')}
-          >
-            <FaHistory />
-            기록
-          </NavLink>
+          {navList.map((item, index) => (
+            <NavLink
+              to={item.to}
+              onClick={toggleMenu}
+              className={({ isActive }) => (isActive ? styles.active : '')}
+              key={index}
+            >
+              {item.icon}
+              {item.txt}
+            </NavLink>
+          ))}
         </div>
       </nav>
     </>
