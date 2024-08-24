@@ -38,16 +38,16 @@ export default function VideoCardA({ video }) {
           alt="썸네일"
         />
         {videoPlay && (
-          <div>
+          <>
             <YouTube
               videoId={videoId}
               opts={{
                 playerVars: { autoplay: 1, controls: 0, modestbranding: 1 },
               }}
               onReady={(e) => e.target.mute()}
-              style={{ 'pointer-events': 'none' }}
+              className={styles.youtube}
             />
-          </div>
+          </>
         )}
       </div>
       <div className={styles['desc-wrap']}>

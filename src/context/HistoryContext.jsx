@@ -14,15 +14,15 @@ export const HistoryProvider = ({ children }) => {
         (date.getMonth() + 1).toString().padStart(2, '0') +
         '.' +
         date.getDate().toString().padStart(2, '0');
-      const index = prev.length - 1;
-      if (prev.length === 0 || prev[index].date !== today) {
+
+      if (prev.length === 0 || prev[0].date !== today) {
         return [{ date: today, ids: [videoId] }, ...prev];
       } else {
-        if (prev[index].ids.includes(videoId)) {
+        if (prev[0].ids.includes(videoId)) {
           return prev;
         } else {
           return [
-            { date: today, ids: [videoId, ...prev[index].ids] },
+            { date: today, ids: [videoId, ...prev[0].ids] },
             ...prev.slice(1),
           ];
         }
